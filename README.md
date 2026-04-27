@@ -24,6 +24,9 @@ Built a Windows Server 2022 Active Directory lab using Oracle VirtualBox.
 - Windows Server Administration
 - Active Directory Management
 - Group Policy
+- PowerShell
+- Troubleshooting
+- Identity and Access Management
 
 ## Project Screenshots
 
@@ -44,9 +47,6 @@ Built a Windows Server 2022 Active Directory lab using Oracle VirtualBox.
 
 ### PowerShell Verification
 ![PowerShell](9-powershell-verification.png)
-- PowerShell
-- Troubleshooting
-- Identity and Access Management
 
 ## Screenshots
 (See images below)
