@@ -48,8 +48,6 @@ Built a Windows Server 2022 Active Directory lab using Oracle VirtualBox.
 ### PowerShell Verification
 ![PowerShell](9-powershell-verification.png)
 
-## Screenshots
-(See images below)
 
 ## Key Takeaways
 - Gained hands-on experience with Active Directory user and group management
