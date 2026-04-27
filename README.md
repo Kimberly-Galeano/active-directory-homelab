@@ -50,3 +50,9 @@ Built a Windows Server 2022 Active Directory lab using Oracle VirtualBox.
 
 ## Screenshots
 (See images below)
+
+## Key Takeaways
+- Gained hands-on experience with Active Directory user and group management
+- Learned how to apply and verify Group Policy settings
+- Practiced using PowerShell to query and validate AD objects
+- Built foundational skills in identity and access management
